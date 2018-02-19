@@ -41,7 +41,6 @@ form {
     padding: 15px;
 
     background-color: white;
-
 }
 
 input {
@@ -61,6 +60,7 @@ span {
 
 
 button {
+    display: inline-block;
     color: white;
     border: none;
     background-color: #6699ff;
